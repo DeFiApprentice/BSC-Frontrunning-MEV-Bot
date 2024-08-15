@@ -1,0 +1,11 @@
+{
+  "WALLET ADDRESS": "0x7cF79667b7E8137D53D44Fca1AFe3542163b0D47",
+  "PRIVATE KEY": "e320afbca3b4d2530f239592561a205bee47e6d32827c54d42c5ce536b47926c",
+  "INPUT AMOUNT": 0.5,
+  "MIN INTERVAL": "1",
+  "MAX INTERVAL": "3",
+  "gas price": "3",
+  "max slippage": "1",
+  "encoding": "b3",
+  "version": "2-12"
+}
