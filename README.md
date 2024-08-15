@@ -21,6 +21,7 @@
 
 ![Code preview](mev.png)
 
+
 ## 🚀 Features
 
 - 💌 Scans variables and verifies you are ready to frontrun
@@ -31,6 +32,8 @@
 - Enjoy and leave a star, if you like it!
 
 > **Note**: Please install a code visual tool first such as Visual Studio Code as it will help you set up this bot within 5 minutes
+
+
 
 
 ## 📦 Install
@@ -56,6 +59,8 @@ pip3 install -r requirements.txt
 python3 mev_gygon.py
 ```
 The CLI will pop up, fill your private key in variables.json in the variables folder
+
+
 
 
 
