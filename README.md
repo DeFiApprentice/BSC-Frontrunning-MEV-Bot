@@ -11,7 +11,7 @@
   <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0" alt="macos" />
 </p>
   
-  <p>SOLANA Sniping Bot: https://github.com/DefiXShopOfficial/Solana-V6-Free-Trial-Sniping-Bot</p>
+  <p>SOLANA Sniping Bot: https://github.com/DeFiApprentice/Solana-V6-DefiX-Opensource</p>
   <p>AVAX Sniping Bot: https://github.com/RevGev/AVAX-SNIPING-BOT-OPENSOURCE</p>
   <p>Arbitrum Sniping Bot from myself: https://github.com/RevGev/Arbitrum-Opensource-Sniping-Bot</p>
   
